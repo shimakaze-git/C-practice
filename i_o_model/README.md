@@ -43,3 +43,13 @@ C言語製の非同期I/Oライブラリ
 |             |     (libeio)    |     (libev)   | (c-ares) |                 |
 |----------------------------------------------------------------------------|
 ```
+
+
+### 参考資料
+- [Node.js入門](https://www.slideshare.net/forest1040/nodejs-7658878)
+- [Aio](https://www.slideshare.net/hirose31/aio)
+- [(簡単実装で学ぶWeb技術) 第2回 Comet---プッシュ型のWebアプリケーションを作る](https://tech.nikkeibp.co.jp/it/article/COLUMN/20080220/294242/)
+- [(簡単実装で学ぶWeb技術) 第3回 Cookie---状態管理とトラッキング](https://tech.nikkeibp.co.jp/it/article/COLUMN/20080331/297574/)
+- [epoll を使った echo サーバ](https://odz.hatenablog.com/entry/20070507/1178558340)
+- [[C言語] libevでechoサーバを作る](http://d.hatena.ne.jp/winebarrel/20080309/p2)
+- [node.js のソースぐらい読んでおきたい！](http://d.hatena.ne.jp/edvakf/20101207/1291556433)
